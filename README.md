@@ -47,6 +47,10 @@ Akıllı Turizm Rehberi, Türkiye'deki şehirler, tarihi yerler, yöresel yemekl
 └── MainActivity.kt
 ```
 ## 🛠️ Gerekli Kurulumlar
+```
+git clone https://github.com/mustafaderinoz/TurizmRehberiMobilUygulama.git
+cd TurizmRehberiMobilUygulama
+```
 
 ### 1️⃣ Sanal Ortam Oluşturma
 
@@ -79,13 +83,20 @@ API_KEY="YOUR_API_KEY"
 ```bash
 python turizm_rehberi.py
 ```
+```
+-Android Studio’yu aç
+-Projeyi Android klasöründen içe aktar
+-Gradle dosyalarını senkronize et
+-Emülatörde veya gerçek cihazda çalıştır
+```
 ---
 
 ## 📱 Ekran Görüntüleri
 
-| Chatbot Ekranı | Ana Sayfa        | 
-|----------------------|------------------|
-| ![Login](screenshots/chatbot.png) | ![Feed](screenshots/chatbot2.png) |
+|  |  |
+|----------------|--|
+| ![Login](screenshots/chatbot.jpg) | ![Feed](screenshots/chatbot2.jpg) |
+
 
 
 
